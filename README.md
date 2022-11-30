@@ -1,6 +1,6 @@
 # Bài tập môn React
 ## Lý thuyết
-1. [câu 1, 3, 4](Bài 1, 3, 4 (codepen.io)
+1. [câu 1, 3, 4]([Bài 1, 3, 4 (codepen.io](https://codepen.io/NguyenHoangAiMy/pen/XWYzKMy))
 2. [câu 5, 6](BÀi 5, 6 (codepen.io)
 3. [câu 7](Bài 7 (codepen.io)
 4. [câu 8](bài 8 (codepen.io)
