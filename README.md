@@ -1,10 +1,10 @@
 # Bài tập môn React
 ## Lý thuyết
-1. [câu 1, 3, 4](Bài 1, 3, 4 (codepen.io))
-2. [câu 5, 6](BÀi 5, 6 (codepen.io))
-3. [câu 7](Bài 7 (codepen.io))
-4. [câu 8](bài 8 (codepen.io))
-5. [câu 10](bài10 (codepen.io))
+1. [câu 1, 3, 4](Bài 1, 3, 4 (codepen.io)
+2. [câu 5, 6](BÀi 5, 6 (codepen.io)
+3. [câu 7](Bài 7 (codepen.io)
+4. [câu 8](bài 8 (codepen.io)
+5. [câu 10](bài10 (codepen.io)
 6. [câu 11](https://codesandbox.io/embed/bai-11-efjsf2?fontsize=14&hidenavigation=1&theme=dark)
 7. [câu 12](https://codesandbox.io/embed/bai-12-lsrjor?fontsize=14&hidenavigation=1&theme=dark)
 8. [câu 13](https://codesandbox.io/embed/bai-13-0sc9k9?fontsize=14&hidenavigation=1&theme=dark)
