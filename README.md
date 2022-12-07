@@ -15,8 +15,8 @@
 13. [câu 17](https://codesandbox.io/embed/bai-17-59c21i?fontsize=14&hidenavigation=1&theme=dark)
 14. [câu 18](https://codesandbox.io/embed/bai-18-0dpept?fontsize=14&hidenavigation=1&theme=dark)
 15. [câu 19]()
-16. [Câu 20]()
-17. [câu 21](https://codesandbox.io/embed/bai-20-edxc95?fontsize=14&hidenavigation=1&theme=dark)
+16. [Câu 20](https://codesandbox.io/embed/bai-20-edxc95?fontsize=14&hidenavigation=1&theme=dark)
+17. [câu 21](https://codesandbox.io/s/bai-21-r67241?file=/public/index.html)
 ## Thực hành
 1. [Bài thực hành làm quen React và tạo component](https://codesandbox.io/embed/bai-thuc-hanh-lam-quen-react-va-tao-component-5nd800?fontsize=14&hidenavigation=1&theme=dark)
 2. [Bài thực hành props and state](https://codesandbox.io/embed/thuc-hanh-dung-props-va-state-mq434k?fontsize=14&hidenavigation=1&theme=dark)
